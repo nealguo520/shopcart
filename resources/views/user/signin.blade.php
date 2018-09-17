@@ -13,7 +13,7 @@
             @endif
             <form actio="" action="{{ route('user.signin') }}" method="post">
                 <div class="form-group">
-                    <label for="email">信箱</label>
+                    <label for="email">信箱gmail</label>
                     <input type="text" id="email" name="email" class="form-control">
                 </div>
                 <div class="form-group">
